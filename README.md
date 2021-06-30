@@ -1,6 +1,6 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gelzieny&repo=Gelzieny&countColorcountColor)
 
-<img align="right" src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/user.png?raw=true" width="300"/>
+<img align="right" src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/user.png?raw=true" width="300"/>
 
 <h1 align="center">Gelzieny Rezende Martins</h1>
 
@@ -41,15 +41,15 @@
 
 <p align="left">
   <!-- HTML Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/html.png?raw=true">&nbsp;
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/html.png?raw=true">&nbsp;
   <!-- CSS Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/css.png?raw=true">&nbsp;
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/css.png?raw=true">&nbsp;
   <!-- JS Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/js.png?raw=true">&nbsp;
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/js.png?raw=true">&nbsp;
   <!-- React Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/react.png?raw=true">&nbsp;
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/react.png?raw=true">&nbsp;
   <!-- Git Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/git.png?raw=true">&nbsp;
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/git.png?raw=true">&nbsp;
   
 </p>
 
@@ -58,15 +58,15 @@
 
 <p align="left">
   <!-- Next.JS Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/nextJS.png?raw=true">&nbsp;
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/nextJS.png?raw=true">&nbsp;
   <!-- Node Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/nodejs.png?raw=true">&nbsp;
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/nodejs.png?raw=true">&nbsp;
   <!-- TS Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/ts.png?raw=true">&nbsp;
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/ts.png?raw=true">&nbsp;
   <!-- Python Icon -->
-  <img height='40' src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/python.png?raw=true">&nbsp;
+  <img height='40' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/python.png?raw=true">&nbsp;
   <!-- Django Icon -->
-  <img height='50' src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/django.png?raw=true">&nbsp;
+  <img height='50' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/django.png?raw=true">&nbsp;
   
 </p>
 
