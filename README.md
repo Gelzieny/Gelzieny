@@ -50,6 +50,9 @@
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/react.png?raw=true">&nbsp;
   <!-- Git Icon -->
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/git.png?raw=true">&nbsp;
+
+  <!-- Flutter Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/git.png?raw=true">&nbsp;
   
 </p>
 
