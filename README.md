@@ -40,36 +40,34 @@
 **Estou estudando:**
 
 <p align="left">
+  <!-- Flutter Icon -->
+  <img height='34' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/flutter.png?raw=true">&nbsp;
   <!-- HTML Icon -->
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/html.png?raw=true">&nbsp;
   <!-- CSS Icon -->
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/css.png?raw=true">&nbsp;
   <!-- JS Icon -->
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/js.png?raw=true">&nbsp;
-  <!-- React Icon -->
-  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/react.png?raw=true">&nbsp;
   <!-- Git Icon -->
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/git.png?raw=true">&nbsp;
-
-  <!-- Flutter Icon -->
-  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/git.png?raw=true">&nbsp;
-  
+  <!-- Python Icon -->
+  <img height='40' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/python.png?raw=true">&nbsp;
 </p>
 
 
 **Tenho interesse:**
 
 <p align="left">
+  <!-- React Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/react.png?raw=true">&nbsp;
   <!-- Next.JS Icon -->
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/nextJS.png?raw=true">&nbsp;
   <!-- Node Icon -->
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/nodejs.png?raw=true">&nbsp;
   <!-- TS Icon -->
   <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/ts.png?raw=true">&nbsp;
-  <!-- Python Icon -->
-  <img height='40' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/python.png?raw=true">&nbsp;
   <!-- Django Icon -->
-  <img height='50' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/django.png?raw=true">&nbsp;
+  <img height='50'  src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/django.png?raw=true">&nbsp;
   
 </p>
 
