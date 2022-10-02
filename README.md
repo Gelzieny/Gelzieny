@@ -76,7 +76,7 @@
 
 
 
-<p align="center" border-collapse="collapse">
+<p align="center" border="none">
 <table align='left'>
   <row>
     <a href="https://github.com/Gelzieny">	  
