@@ -92,4 +92,4 @@
 </p>
 
 
-![Snake animation](https://github.com/gelzieny/gelzieny/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gelzieny/Gelzieny/blob/output/github-contribution-grid-snake.svg)
