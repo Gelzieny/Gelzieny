@@ -74,18 +74,10 @@
   
 </p>
 
-<p align="center">
-<table align='left'>
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gelzieny&layout=compact&theme=dark'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gelzieny&show_icons=true&theme=dark'>
-    </td>
-  </row>
-</table>
-</p>
+<div>
+<a href="https://github.com/Gelzieny">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gelzieny&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gelzieny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ![Snake animation](https://github.com/Gelzieny/Gelzieny/blob/output/github-contribution-grid-snake.svg)
