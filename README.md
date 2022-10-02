@@ -1,5 +1,9 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gelzieny&repo=Gelzieny&countColorcountColor)
 
+<img align="right" src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/user.png?raw=true" width="300"/>
+
+<h1 align="center">Gelzieny Rezende Martins</h1>
+
 ## Contatos:
 
 <div>
