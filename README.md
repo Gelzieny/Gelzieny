@@ -1,6 +1,4 @@
-# Olá, me chamo Gelzieny !
-
-## Bem vindo ao meu perfil GitHub 👋
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gelzieny&repo=Gelzieny&countColorcountColor)
 
 ## Contatos:
 
