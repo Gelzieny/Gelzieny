@@ -36,7 +36,8 @@
 <br>
 
 ### :mortar_board: Formação acadêmica
-  - Sistema de informação - UnU UEG Santa Helena de Goiás
+
+- Sistema de informação - UnU UEG Santa Helena de Goiás
 
 ### 🛠 Tecnologias
 
@@ -56,7 +57,6 @@
   <!-- Python Icon -->
   <img height='40' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/python.png?raw=true">&nbsp;
 </p>
-
 
 **Tenho interesse:**
 
@@ -89,4 +89,3 @@
 </p>
 
 ![Snake animation](https://github.com/Gelzieny/Gelzieny/blob/output/github-contribution-grid-snake.svg)
-
