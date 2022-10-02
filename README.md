@@ -1,8 +1,10 @@
-# Olá, me chamo Gelzieny !
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gelzieny&repo=Gelzieny&countColorcountColor)
 
-## Bem vindo ao meu perfil GitHub 👋
+<img align="right" src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/user.png?raw=true" width="300"/>
 
-## Contatos:
+<h1 align="center">Gelzieny Rezende Martins</h1>
+
+### Contatos
 
 <div>
   <a href="https://www.facebook.com/gelzieny/" target="_blank">
@@ -25,10 +27,66 @@
   </a> 
 </div>
 
-<div>
-  <a href="https://github.com/gelzieny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelzieny&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelzieny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<br>
+
+<h4 align="center"> 
+	🚧 Em 2015, iniciei o curso de Sistemas de Informação,  🚀 ainda na graduação iniciei minha carreira no mundo da programação como desenvolvedor FullStack, ❤️desde então o foco é a busca constante pelo aprendizado e especialização. 😃
+	
+</h4>
+<br>
+
+### :mortar_board: Formação acadêmica
+  - Sistema de informação - UnU UEG Santa Helena de Goiás
+
+### 🛠 Tecnologias
+
+**Estou estudando:**
+
+<p align="left">
+  <!-- Flutter Icon -->
+  <img height='34' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/flutter.png?raw=true">&nbsp;
+  <!-- HTML Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/html.png?raw=true">&nbsp;
+  <!-- CSS Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/css.png?raw=true">&nbsp;
+  <!-- JS Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/js.png?raw=true">&nbsp;
+  <!-- Git Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/git.png?raw=true">&nbsp;
+  <!-- Python Icon -->
+  <img height='40' src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/python.png?raw=true">&nbsp;
+</p>
+
+
+**Tenho interesse:**
+
+<p align="left">
+  <!-- React Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/react.png?raw=true">&nbsp;
+  <!-- Next.JS Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/nextJS.png?raw=true">&nbsp;
+  <!-- Node Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/nodejs.png?raw=true">&nbsp;
+  <!-- TS Icon -->
+  <img src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/ts.png?raw=true">&nbsp;
+  <!-- Django Icon -->
+  <img height='50'  src="https://github.com/Gelzieny/Gelzieny/blob/main/.github/imagens/django.png?raw=true">&nbsp;
+  
+</p>
+
+<p align="center">
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gelzieny&layout=compact&theme=dark'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=gelzieny&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
+</p>
 
 ![Snake animation](https://github.com/Gelzieny/Gelzieny/blob/output/github-contribution-grid-snake.svg)
+
