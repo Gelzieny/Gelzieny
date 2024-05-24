@@ -75,6 +75,12 @@
 
 
 <div style="flex-basis: 48%;">
+    <h3>Studying in this moment</h3>
+    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>
+
+
+<div style="flex-basis: 48%;">
     <h3>Workstation Tools</h3>
      <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
