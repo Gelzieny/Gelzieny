@@ -1,9 +1,9 @@
 <div id="user-content-toc">
-  <ul align="center">
-    <summary>
-        <h1 style="display: inline-block">Hi I'm Gelzieny 👋</h1>
+    <ul align="center">
+        <summary>
+            <h1 style="display: inline-block">Hi I'm Gelzieny 👋</h1>
+        </summary>
         <h3 align="center">Desenvolvedor full stack</h3>
-    </summary>
     </ul>
 </div>
 
