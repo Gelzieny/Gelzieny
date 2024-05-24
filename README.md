@@ -35,10 +35,10 @@
 <a href="https://instagram.com/gelzieny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gelzieny" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gelzieny&theme=dracula&show_icons=true&locale=en&layout=compact" alt="gelzieny" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gelzieny&theme=dracula&show_icons=true&locale=en" alt="gelzieny" /></p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gelzieny&show_icons=true&count_private=true&hide_border=true&title_color=8F0D87&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gelzieny R. Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelzieny&layout=compact&hide_border=true&title_color=8F0D87&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 
 ## 🔥 Skills
