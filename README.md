@@ -48,11 +48,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gelzieny&theme=dracula&show_icons=true&locale=en" alt="gelzieny" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gelzieny&theme=dracula&" alt="gelzieny" /></p>
-
-
-![](https://github-readme-stats.vercel.app/api?username=Gelzieny&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gelzieny&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
