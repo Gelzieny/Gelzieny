@@ -3,9 +3,11 @@
         <summary>
             <h1 style="display: inline-block">Hi I'm Gelzieny 👋</h1>
         </summary>
-        <h3 align="center">Desenvolvedor full stack</h3>
     </ul>
 </div>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gelzieny&label=Profile%20views&color=0e75b6&style=flat" alt="gelzieny" /> </p>
 
 <p style="text-align: justify;">
   - 🔭 Analista de Sistemas apaixonada por resolver problemas complexos através da tecnologia. 
