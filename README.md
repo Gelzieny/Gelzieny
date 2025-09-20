@@ -34,7 +34,7 @@
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Sequência do GitHub </summary>
   <p>
-    <img src="https://streak-stats.demolab.com?user=Gelzieny&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=Gelzieny&theme=aura-dark&hide_border=true&locale=pt_BR" alt="GitHub Streak">
   </p>
 </details>
 <details>
