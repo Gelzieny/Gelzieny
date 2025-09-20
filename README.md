@@ -1,11 +1,18 @@
 ## Hi there 👋
 
+💻 Desenvolvedora Full Stack apaixonada por **tecnologia, inovação e impacto social**.  
+Atuo com **Python, Django, FastAPI, JavaScript, TypeScript e React**, criando soluções modernas e escaláveis. 
+
+Sempre em busca de aprender mais e compartilhar conhecimento com a comunidade.  
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> O que estou fazendo
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Aprimorando minhas habilidades de desenvolvimento em [Rocketseat](https://app.rocketseat.com.br).
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wireless.png" alt="Microscope" width="25" height="25" /> Trabalhando em projetos web incríveis pessoal.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wireless.png" alt="Microscope" width="25" height="25" /> Criando aplicações web modernas com **foco em escalabilidade e boas práticas**.
+
+- 🌍 Contribuindo com projetos pessoais e open source.
 
 ### Linguagens e Tecnologias
 
@@ -15,13 +22,14 @@
 
 ### Frameworks e bibliotecas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgres,spring" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,postgres,angular" />
 </a>
 
 ### Ferramentas e plataformas
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn" />
 </a>
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> Minhas estatísticas do GitHub
 
@@ -44,9 +52,12 @@
   </p>
 </details>
 
+
+### 🐍 Contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gelzieny/Gelzieny/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gelzieny/Gelzieny/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gelzieny/Gelzieny/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
